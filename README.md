@@ -11,11 +11,11 @@ You can find me on: [![linkedin](https://img.shields.io/badge/-LinkedIn%20vfamim
 
 ## > My passions:
 
-:book: Learning; 
-:pencil: Sharing my knowledge;
-:chart_with_upwards_trend: Data Science;
-:mag: Data Analysis;
-:crystal_ball: Machine Learning;
-:video_game: Games;
-:family: Connecting with different people, I'll be happy to meet you!
+* :book: Learning;
+* :pencil: Sharing my knowledge;
+* :chart_with_upwards_trend: Data Science;
+* :mag: Data Analysis;
+* :crystal_ball: Machine Learning;
+* :video_game: Games;
+* :family: Connecting with different people, I'll be happy to meet you!
 
