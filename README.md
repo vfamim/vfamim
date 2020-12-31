@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 
 
-My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engineering. I'm from Brazil, living in Pernambuco and currently working in my own projects. 
+My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engineering. I'm from Brazil, living in Pernambuco and currently working on my own projects. 
 
 You can find me on:
 
