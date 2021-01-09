@@ -21,3 +21,6 @@ You can find me on:
 * :video_game: Games;
 * :family: Connecting with different people, I'll be happy to meet you!
 
+I'm looking to extend my network with people and business, I believe could have a mutually beneficial working relationship.
+
+Thanks! :punch:
