@@ -27,7 +27,7 @@ Every piece of data should further this purpose.
 My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engineering. I'm from Brazil, living in Pernambuco and currently working in my own projects. 
 
 You can find me on: ![[vfamim](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)](https://img.shields.io/badge/-LinkedIn%20vfamim-blue)
-
+<br>
 ## > My passions:
 
 :book: Learning; 
