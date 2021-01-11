@@ -20,15 +20,12 @@ What do I want to know or do with the data? How I structure a narrative that lea
 
 Every piece of data should further this purpose. 
 
-<br>
----
 ## Welcome to my GitHub profile! 
 
 My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engineering. I'm from Brazil, living in Pernambuco and currently working in my own projects. 
 
 You can find me on: ![[vfamim](https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)](https://img.shields.io/badge/-LinkedIn%20vfamim-blue)
-<br>
----
+
 ## > My passions:
 
 :book: Learning; 
@@ -38,7 +35,7 @@ You can find me on: ![[vfamim](https://www.linkedin.com/in/vinicius-ferreira-ami
 :video_game: Games;
 
 :family: Connecting with different people, I'll be happy to meet you!
-
+---
 I'm looking to extend my network with people and business, I believe could have a mutually beneficial working relationship.
 
 Thanks! :octocat:
