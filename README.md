@@ -28,14 +28,14 @@ You can find me on: ![[vfamim](https://www.linkedin.com/in/vinicius-ferreira-ami
 
 ## > My passions:
 
-	:book: Learning; 
+:book: Learning; 
 
-	:pencil: Sharing my knowledge;
+:pencil: Sharing my knowledge;
 
-	:video_game: Games;
+:video_game: Games;
 
-	:family: Connecting with different people, I'll be happy to meet you!
+:family: Connecting with different people, I'll be happy to meet you!
 
-I'm looking to extend my network with people and business, I believe could have a mutually beneficial working relationship.
+	I'm looking to extend my network with people and business, I believe could have a mutually beneficial working relationship.
 
-Thanks! :octocat:
+	Thanks!
