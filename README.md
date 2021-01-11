@@ -12,11 +12,21 @@ Machine Learning can help with problems which solutions require a lot of fine-tu
 
 ## :chart_with_upwards_trend: Data Visualization:
 
-It simply the visual representation of data, elevate and draw attention to key insights, provide context and formulate questions which lead to action. 
+It simply the visual representation of data, elevate and draw attention to key insights, provide context and formulate questions which lead to action.
+
+## :scroll: Storytelling with Data
+
+What do I want to know or do with the data?
+
+How I structure a narrative that leads to desired action?
+
+How is my data helping drive a decision?
+
+Every piece of data should further this purpose. 
 
 <br>
 
-Welcome to my GitHub profile! 
+## Welcome to my GitHub profile! 
 
 My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engineering. I'm from Brazil, living in Pernambuco and currently working in my own projects. 
 
