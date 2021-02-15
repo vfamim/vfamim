@@ -1,5 +1,3 @@
-<h1 align="center"> ![vfamim](https://github.com/vfamim/vfamim/blob/main/img/vfamim_github.png?raw=true) </h1>
-<div style="text-align:center"><img src="https://github.com/vfamim/vfamim/blob/main/img/vfamim_github.png?raw=true" /></div>
 <p align="center">
   <img src="https://github.com/vfamim/vfamim/blob/main/img/vfamim_github.png?raw=true" />
 </p>
