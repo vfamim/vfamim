@@ -1,4 +1,4 @@
-<align="center"> ![vfamim/vfamim_github.png at main · vfamim/vfamim](https://github.com/vfamim/vfamim/blob/main/img/vfamim_github.png?raw=true) 
+<h1 align="center"> ![vfamim](https://github.com/vfamim/vfamim/blob/main/img/vfamim_github.png?raw=true) </h1>
 
 # You can count on me with:
 
