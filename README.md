@@ -7,11 +7,11 @@
 
 ###  :mag: Data Analysis
 
-Inspecting, cleaning, transformation and modeling data, extracting meaningful insights that will help you business.
+> Inspecting, cleaning, transformation and modeling data, extracting meaningful insights that will help you business.
 
 ### :robot: Machine Learning:
 
-Machine Learning can help with problems which solutions require a lot of fine-tuning or long list of rules, complex problems which traditional approach yields no good solution and getting insights for your business problems.
+> Machine Learning can help with problems which solutions require a lot of fine-tuning or long list of rules, complex problems which traditional approach yields no good solution and getting insights for your business problems.
 
 ### :chart_with_upwards_trend: Data Visualization:
 
