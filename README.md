@@ -15,12 +15,11 @@
 
 ### :chart_with_upwards_trend: Data Visualization:
 
-It simply the visual representation of data, elevate and draw attention to key insights, provide context and formulate questions which lead to action.
+> It simply the visual representation of data, elevate and draw attention to key insights, provide context and formulate questions which lead to action.
 
 ### :scroll: Storytelling with Data
 
-What do I want to know or do with the data? How I structure a narrative that leads to desired action? How is my data helping drive a decision?
-
+> What do I want to know or do with the data? How I structure a narrative that leads to desired action? How is my data helping drive a decision?
 Every piece of data should further this purpose. 
 
 ## Welcome to my GitHub profile! 
@@ -33,7 +32,7 @@ You can find me on:
 
 ## > My passions:
 
->:book: Learning; 
+> :book: Learning; 
 
 > :pencil: Sharing my knowledge;
 
