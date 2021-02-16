@@ -28,7 +28,7 @@ My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engine
 
 You can find me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-vfamim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-ferreira-amim-24275750/)](https://www.linkedin.com/in/vfamim/)
+[<img src="https://img.shields.io/badge/vfamim@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />](vfamim@outlook.com) | [<img src="https://img.shields.io/badge/vfamim-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vfamim/)| [<img src="https://img.shields.io/badge/vfamim-100000?style=flat&logo=github&logoColor=white"/>](https://github.com/vfamim)
 
 ## > My passions:
 
