@@ -17,7 +17,7 @@
 
 > It simply the visual representation of data, elevate and draw attention to key insights, provide context and formulate questions which lead to action.
 
-### :scroll: Storytelling with Data
+### :scroll: Storytelling
 
 > What do I want to know or do with the data? How I structure a narrative that leads to desired action? How is my data helping drive a decision?
 Every piece of data should further this purpose. 
