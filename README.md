@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/vfamim/vfamim/blob/main/img/vfamim_github.png?raw=true" />
-</p>
+<p align = 'center'><img src="https://github.com/vfamim/Data-Science/blob/main/Logo/banner_databox.jpg" style="zoom:50%;" /> </p>
 
 
 # You can count on me with:
