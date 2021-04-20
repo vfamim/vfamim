@@ -1,6 +1,6 @@
 # You can count on me with:
 
-###  :mag: Data Analysis
+###  :mag: Data Science
 
 > Inspecting, cleaning, transformation and modeling data, extracting meaningful insights that will help you business.
 
