@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Vinicius Ferreira Amim</h1>
+<h1 align="center">Hey there! 👋 I'm Vinicius</h1>
 <h5 align="center">And you can count on me with:</h5>
 
 ####  :mag: Data Science
