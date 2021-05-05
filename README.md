@@ -1,41 +1,31 @@
-# You can count on me with:
+<h1 align="center">Hi 👋, I'm Vinicius Ferreira Amim</h1>
+<h5 align="center">A passionate for statistic, programming and data</h5>
 
-###  :mag: Data Science
+####  :mag: Data Science
 
-> Inspecting, cleaning, transformation and modeling data, extracting meaningful insights that will help you business.
+>Data science is the domain of study that deals with vast volumes of data  using modern tools and techniques to find unseen patterns, derive  meaningful information, and make business decisions. Data science uses  complex machine learning algorithms to build predictive models.
 
-### :robot: Machine Learning:
-
-> Machine Learning can help with problems which solutions require a lot of fine-tuning or long list of rules, complex problems which traditional approach yields no good solution and getting insights for your business problems.
-
-### :chart_with_upwards_trend: Data Visualization:
+#### :chart_with_upwards_trend: Data Visualization:
 
 > It simply the visual representation of data, elevate and draw attention to key insights, provide context and formulate questions which lead to action.
 
-### :scroll: Storytelling
+#### :scroll: Storytelling
 
 > What do I want to know or do with the data? How I structure a narrative that leads to desired action? How is my data helping drive a decision?
-Every piece of data should further this purpose. 
+> Every piece of data should further this purpose. 
 
-## Welcome to my GitHub profile! 
+---
 
-My name is Vinicius Ferreira Amim and I'm a Data Scientist and Mechanical Engineering. I'm from Brazil, living in Pernambuco and currently working in my own projects. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vfamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vfamim" height="30" width="40" /></a>
+<a href="https://kaggle.com/vfamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="vfamim" height="30" width="40" /></a>
+<a href="https://medium.com/@vfamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@vfamim" height="30" width="40" /></a>
+</p>
 
-You can find me on:
 
- [<img src="https://img.shields.io/badge/vfamim-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vfamim/) [<img src="https://img.shields.io/badge/vfamim-100000?style=flat&logo=github&logoColor=white"/>](https://github.com/vfamim)
- [<img src="https://img.shields.io/badge/vfamim@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />](vfamim@outlook.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## > My passions:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vfamim&show_icons=true&locale=en&layout=compact" alt="vfamim" /></p>
 
-> :book: Learning; 
-
-> :pencil: Sharing my knowledge;
-
-> :video_game: Games;
-
-> :family: Connecting with different people, I'll be happy to meet you!
-
-I'm looking to extend my network with people and business, I believe could have a mutually beneficial working relationship.
-
-Thanks!
