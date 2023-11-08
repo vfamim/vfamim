@@ -4,7 +4,7 @@
 
 ---
 
-[img_banner](../img/bgm_banner.jpg)
+[img_banner](img/bgm_banner.jpg)
 
 Hello, I'm Vinicius. Data Scientist with expertise in:
 
