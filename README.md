@@ -1,8 +1,18 @@
-## Hey there! 👋
+<div align="center">
+<h1>Vinicius Amim</h1>
+Data Scientist · DevOps · Data Engineer · Production
+<br>
+<br>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/vfamim-%23121011.svg?logo=github&logoColor=white">&nbsp;
+    <a target="_blank" href="https://www.linkedin.com/in/vfamim"><img src="https://img.shields.io/badge/vfamim%20-0A66C2?logo=linkedin&logoColor=fff"></a>&nbsp;
+    <a target="_blank" href="https://twitter.com/aminzei"><img src="https://img.shields.io/badge/vfamim-%23000000.svg?logo=X&logoColor=white"></a>&nbsp;
+    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white">
+</div>
 
-![Static Badge](https://img.shields.io/badge/linkedin-vfamim-blue?logo=linkedin&logoColor=white&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvfamim%2F) ![Static Badge](https://img.shields.io/badge/kaggle%20-%20vfamim%20-lightblue?logo=kaggle&logoColor=white&link=https%3A%2F%2Fwww.kaggle.com%2Fvfamim) ![Static Badge](https://img.shields.io/badge/medium%20-%20vfamim%20-%20black?logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40vfamim)
-
----
+<hr>
 
 ![img_banner](img/bgm_banner.jpg)
 
@@ -21,9 +31,12 @@ My portfolio where I showcase my [projects](https://vfamim.github.io/).
 
 ### 🛠️ Tools
 
-- Language: Python
-- Database: AWS Redshift, AWS Athenas, BigQuery, PostgreSQL, MySQL
-- Visualization: PowerBI, Looker Studio, Apache Superset, Streamlit
-- Machine Learning: Scikit-learn, Tensorflow, Keras, Pytorch
-- Workflows: Crontab, Airflow, Prefection
-- Cloud: Azure, Google Cloude, AWS
+- **Language**: Python, Spark, Scala
+- **Framework**: Pandas, NumPy, Matplotlib, Seaborn
+- **Data Lake**: S3, Azure Blob Storage, Google Cloud Storage
+- **Data Warehouse**: Redshift, Athena, BigQuery
+- **Database**: PostgreSQL, MySQL, MongoDB, Redis
+- **Visualization**: PowerBI, Looker Studio, Apache Superset, Streamlit, Metabase
+- **Machine Learning**: Scikit-learn, Tensorflow, Keras, Pytorch
+- **Workflows**: Crontab, Airflow, Prefection, Mage
+- **Cloud**: Azure, GCP, AWS
