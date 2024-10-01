@@ -14,7 +14,7 @@ Data Engineer · Cloud Architect · DevOp
 
 <hr>
 
-![img_banner](img/bgm_banner.jpg)
+![img_banner](img/vfamim_github2.png)
 
 Hello, I'm Vinicius. Data Engineer with expertise in:
 
