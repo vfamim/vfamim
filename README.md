@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Vinicius Amim</h1>
-Data Scientist · DevOps · Data Engineer · Production
+<h3>Vinicius Amim</h3>
+Data Engineer · Cloud Architect · DevOp
 <br>
 <br>
 </div>
@@ -16,14 +16,14 @@ Data Scientist · DevOps · Data Engineer · Production
 
 ![img_banner](img/bgm_banner.jpg)
 
-Hello, I'm Vinicius. Data Scientist with expertise in:
+Hello, I'm Vinicius. Data Engineer with expertise in:
 
-- Techniques to find unseen patterns
+- Building scalable and reliable data pipelines
 - Derive meaningful information
 - Make business decisions
-- Complex machine learning algorithms
-- Querying data
-- Generate reports and data analysis
+- Optimizing data storage and processing for performance
+- Data Lake, Data Warehouse and Data Mesh implementation
+- Ensuring data availability and consistency across systems
 
 ### 📚 Projects
 
@@ -31,7 +31,7 @@ My portfolio where I showcase my [projects](https://vfamim.github.io/).
 
 ### 🛠️ Tools
 
-- **Language**: Python, Spark, Scala
+- **Programming Language**: Python, Spark, Scala, SQL
 - **Framework**: Pandas, NumPy, Matplotlib, Seaborn
 - **Data Lake**: S3, Azure Blob Storage, Google Cloud Storage
 - **Data Warehouse**: Redshift, Athena, BigQuery
@@ -40,3 +40,4 @@ My portfolio where I showcase my [projects](https://vfamim.github.io/).
 - **Machine Learning**: Scikit-learn, Tensorflow, Keras, Pytorch
 - **Workflows**: Crontab, Airflow, Prefection, Mage
 - **Cloud**: Azure, GCP, AWS
+- **DevOps**: Docker, Terraform, CI/CD
